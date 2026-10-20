@@ -1,0 +1,1 @@
+# Generaci-n-y-Estructuraci-n-de-un-Esquema-Estrella-en-PostgreSQL-EC2-Pandas
